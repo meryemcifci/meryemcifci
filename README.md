@@ -1,7 +1,7 @@
 # 💫 Hakkımda:
 ⚡ Bilişim Sistemleri Mühendisi<br>
 🌱 Şu anda **.NET Core** ve **Vue** öğreniyorum<br>
-💬 Bana ulaş: **meryemcifcii01@gmail.com**<br>
+💬 Bana ulaş: **meryemcifcii06@gmail.com**<br>
 🚀 Yazılım geliştirme, tasarım ve web teknolojilerine ilgim var<br>
 
 ---
